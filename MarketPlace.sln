@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarketPlace.Api", "src\MarketPlace.Api\MarketPlace.Api.csproj", "{22EC3989-593D-4502-B768-B75B26989F61}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarketPlace.BFF.Api", "src\MarketPlace.BFF.Api\MarketPlace.BFF.Api.csproj", "{9F00C543-C7D4-4742-8FBB-E6C6C91070E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22EC3989-593D-4502-B768-B75B26989F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22EC3989-593D-4502-B768-B75B26989F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22EC3989-593D-4502-B768-B75B26989F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22EC3989-593D-4502-B768-B75B26989F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F00C543-C7D4-4742-8FBB-E6C6C91070E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F00C543-C7D4-4742-8FBB-E6C6C91070E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F00C543-C7D4-4742-8FBB-E6C6C91070E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F00C543-C7D4-4742-8FBB-E6C6C91070E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D736E238-9142-4717-89FA-86103C877083}
+	EndGlobalSection
+EndGlobal
